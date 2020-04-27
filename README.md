@@ -1,2 +1,3 @@
-# blockchain-development
-blockchain program development for more security
+# blockchain-development 
+// to mine a block.
+//blockchain program development for more security
